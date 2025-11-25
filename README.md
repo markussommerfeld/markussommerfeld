@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on developing a Web GIS.<br>I do most of my coding in Python, but might have to learn new skills.
+I am learning about AI and GIS.<br>I do most of my coding in Python, but might have to learn new skills.
 
 
 ## 🌐 Socials:
